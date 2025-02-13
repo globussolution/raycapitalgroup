@@ -65,7 +65,9 @@
 64. Contact Form
 65. Google Map
 
-
+Colors Reference: 
+Blue: #015dbf
+Orange: #f15b2b
 **********************************************/
 
 
@@ -496,7 +498,7 @@ img {
 .main-header .header-top{
   position: relative;
   display: block;
-  background: #fff;
+  background: #f5f5f5;
   padding: 17px 0px 14px 0px;
 }
 
@@ -1277,7 +1279,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 
 .sticky-header .main-menu .navigation > li.current > a,
 .sticky-header .main-menu .navigation > li:hover > a{
-  background: #fbef55;
+  background: #f15b2b;
   color: #192d66 !important;
 }
 
@@ -4657,13 +4659,13 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 }
 
 .main-header.style-three .header-bottom{
-  background: #161212;
+  background: #fff;
 }
 
 .main-header.style-three .header-bottom .outer-container .nav-outer{
   position: relative;
   top: 0px;
-  background: #161212;
+  background: #fff;
 }
 
 .main-header.style-three .header-bottom .logo-box{
@@ -4729,7 +4731,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 
 .main-header.style-three .main-menu .navigation > li > a{
   padding: 45px 0px;
-  color: #fff;
+  color: #1d429c;
 }
 
 .main-header.style-three .main-menu .navigation > li.current > a, 
@@ -6190,7 +6192,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 }
 
 .main-header.style-four .header-top{
-  background: #0c0d24;
+  background: #015dbf;
 }
 
 .main-header.style-four .header-bottom .outer-container .nav-outer{
